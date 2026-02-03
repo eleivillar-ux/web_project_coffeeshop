@@ -136,11 +136,7 @@
 .recipes__subtitle {
   margin-top: 24px;
   max-width: 438px;
-  font-family:
-    noto serif,
-    "Times New Roman",
-    Times,
-    serif;
+  font-family: "Noto serif", "Times New Roman", Times, serif;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
@@ -156,6 +152,7 @@
 }
 
 .recipes__videos-item {
+  position: relative;
 }
 
 .recipes__iframe {
