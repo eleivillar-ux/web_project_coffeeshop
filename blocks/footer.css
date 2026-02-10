@@ -11,7 +11,7 @@
 }
 
 .footer__logo {
-  width: 195px;
+  width: 105px;
   height: 39px;
   z-index: 1;
 }
@@ -29,6 +29,7 @@
 }
 
 .footer__social {
+  margin: 0;
 }
 
 .footer__social-heading {
